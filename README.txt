@@ -7,7 +7,7 @@ ANSWER: changed to relative paths
 3. Write letters to files:
 ANSWER:earlier i included everybody's practice times. Now changed to team-specific schedules
 
-4.Name of the letter should be formatted like 'firstname_lastname.txt'
+4.Name of the letter should be formatted like 'firstname_lastname.txt'. Should be lowercased
 ANSWER: underscore was missing. fixed
 
 
