@@ -58,7 +58,7 @@ def team_builder(master_dict):
 def print_letters(master_tuple):
     for teams in master_tuple:
         for key, value in teams.items():
-            name = key.split()[0] + '_' + key.split()[1]
+            name = key.split()[0].lower() + '_' + key.split()[1].lower()
             with open(name + '.txt', 'w', encoding='utf-8') as file:  # read from the desk
 
                 player = str(key)
