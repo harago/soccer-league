@@ -3,7 +3,7 @@ def soccer_players():
     """ the first program of this file reads data from a text file on the disk, creates a dictionary of players with
     strings and lists as keys and values respectively. The output in the format of a dictionary is passed to the
     second program which then sorts the players into 3 different teams equally based on their experience.
-    Finally, the last program prints personalized letters to the guarding informing them about the teams and
+    Finally, the last program prints personalized letters to the guardians of the players informing them about the teams and
     schedules """
 
     with open('soccer_players.csv', 'r', encoding='utf-8') as file:  # open file from a relative path
