@@ -22,7 +22,7 @@ def team_builder(master_dict):
     yes_count = 0
     no_count = 0
 
-    # sort players in 3 teams based on their experience. Also appends the team name to the respective dictionary
+    # sort players in 3 teams based on their experience. Also appends the team name and practice schedules to the respective dictionary
 
     for key, value in master_dict.items():
 
