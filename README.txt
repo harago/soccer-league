@@ -1,18 +1,5 @@
-1. logic does not sort plyers into logical teams
-ANSWER: It does as per my understanding. each team contains 3 experienced and 3 freshers. Please be specific if you see anything that's not meeting the criteria
 
-2.Hard coded paths: 
-ANSWER: changed to relative paths
-
-3. Write letters to files:
-ANSWER:earlier i included everybody's practice times. Now changed to team-specific schedules
-
-4.Name of the letter should be formatted like 'firstname_lastname.txt'. Should be lowercased
-ANSWER: underscore was missing. fixed
-
-
-5.Required variables not included
-ANSWER: now fixed
-
-6.Ambiguity with passing arguements to the functions
-ANSWER: now fixed
+1. soccer league is tiny console based python program that sorts a group of soccer players into 3 equally experienced players.
+2. it also generates text based letters to the guardians informing about their son/daughter's team details and game schedules
+3. complexity: simple, basic python concepts
+4. source of learning: teamtreehouse project
